@@ -1,0 +1,9 @@
+streamlit
+openai
+pdfplumber
+pdf2image
+serpapi
+pillow
+google-search-results
+easyocr
+python-dotenv
